@@ -231,6 +231,7 @@ function create_config( )
       "bot",
       "commands",
       "english_lang",
+      "help",
       "export_gban",
       "giverank",
       "id",
